@@ -1,6 +1,6 @@
 # Superhero-Showdown
 
-Superhero Showdown Functional Design Document
+## Superhero Showdown Functional Design Document
 1. Overview: 
 Superhero Showdown is a role-playing game featuring classic superheroes from Marvel and DC comics. Players will battle villains in turn-based combat while upgrading their characters with new abilities and equipment. The game will be playable on both mobile and desktop platforms.
 
@@ -25,39 +25,42 @@ The game will feature an original soundtrack, as well as dynamic sound effects f
 8. Networking: 
 The game will support online multiplayer for up to four players. Players will be able to join or create a game, invite friends, and compete in leaderboards.
 
-Superhero Showdown Project File Structure 
+---
 
-• Assets 
-  • Characters
-    • Character Models 
-    • Character Animations 
-  • Environments
-    • Level Models 
-    • Level Textures 
-  • Audio 
-    • Music 
-    • Sound Effects 
-  • UI  
-    • UI Assets 
-• Scripts
-  • Characters 
-    • Character Scripts 
-    • Character AI Scripts 
-  • Gameplay 
-    • Level Scripts 
-  • Input 
-    • Input Scripts 
-  • Networking 
-    • Networking Scripts
-  • UI 
-    • UI Scripts 
-• Builds 
-  • iOS 
-  • Android 
-  • Web
+## Superhero Showdown Project File Structure 
 
+* Assets 
+  * Characters
+     * Character Models 
+     * Character Animations 
+  * Environments
+    * Level Models 
+    * Level Textures 
+  * Audio 
+    * Music 
+    * Sound Effects 
+  * UI  
+    * UI Assets 
+* Scripts
+  * Characters 
+    * Character Scripts 
+    * Character AI Scripts 
+  * Gameplay 
+    * Level Scripts 
+  * Input 
+    * Input Scripts 
+  * Networking 
+    * Networking Scripts
+  * UI 
+    * UI Scripts 
+* Builds 
+  * iOS 
+  * Android 
+  * Web
 
-Superhero Showdown Development Plan 
+---
+
+## Superhero Showdown Development Plan 
 
 1. Pre-Production: 
 The pre-production phase will include creating a design document, forming a team, and setting up the project plan and timeline. 
@@ -71,11 +74,11 @@ The gameplay development phase will involve creating the levels, enemies, combat
 4. Programming: 
 The programming phase will involve writing code to implement the game’s features, as well as integrating the graphics, sound, and networking components. For this, the team will need to use the following libraries and frameworks:
 
-• C# .NET Framework
-• Unity 3D
-• MonoGame
-• XNA
-• Visual Studio
+* C# .NET Framework
+* Unity 3D
+* MonoGame
+* XNA
+* Visual Studio
 
 5. Testing: 
 The testing phase will involve finding and fixing any bugs or issues with the game.
